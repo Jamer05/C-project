@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596778877 source:c:\users\default.desktop-e4gvif1\documents\c++ project\myproject\main.cpp
+	<iostream>
+	"Me.h"
+
+1596778878 c:\users\default.desktop-e4gvif1\documents\c++ project\myproject\include\me.h
+
