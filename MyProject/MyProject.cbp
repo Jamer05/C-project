@@ -34,9 +34,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Me.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Me.cpp" />
+		<Unit filename="src/SimpleCalculator.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

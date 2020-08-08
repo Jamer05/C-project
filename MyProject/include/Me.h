@@ -4,12 +4,9 @@
 
 class Me
 {
-    public:
-        Me();
-        void saying();
-    protected:
-
-    private:
+public:
+    Me();
+    void saying();
 };
 
 #endif // ME_H
